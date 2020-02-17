@@ -1,0 +1,4 @@
+
+class MCQuiz extends Quiz{
+
+}
